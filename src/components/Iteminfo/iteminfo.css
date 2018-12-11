@@ -1,0 +1,34 @@
+.content-wrapper{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 90px 90px;
+}
+.item-wrapp{
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+.image-wrapper {
+    width: 30%;
+    float: left;
+    height: 350px;
+}
+.image-wrapper img{
+    height: 100%;
+    width: 100%;
+}
+.item-info{
+    box-sizing: border-box;
+    float: left;
+    margin-left: 80px;
+}
+.reviews{
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px; 
+}
+.stars{
+    padding-bottom: 15px;
+}

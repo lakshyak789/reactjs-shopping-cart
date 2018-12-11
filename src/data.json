@@ -1,0 +1,93 @@
+{
+    "items": [
+        
+    {"id": 1 , "name": "Levis xtra lose tshirt" , "imageurl": "./images/reebok.jpg", "cost" : 1200, "size": "xl" , "company": "Levis" },
+    {"id": 2 ,"name":  "Puma coster smoke large" , "imageurl": "./images/puma.jpg" , "cost" : 1300, "size": "l" , "company": "Puma"},
+    {"id": 3 , "name": "Adidas moto trippy", "imageurl": "./images/adidas.jpg" , "cost" : 1100, "size": "m" , "company": "Adidas"},
+    {"id": 4 , "name": "Nike plain white", "imageurl": "./images/nike.jpg" , "cost" : 1000 , "size" : "m" , "company": "Nike"},
+    {"id": 5 , "name": "Levis xtra lose tshirt" , "imageurl": "./images/reebok.jpg", "cost" : 1200, "size": "xl" , "company": "Levis" },
+    {"id": 6 ,"name":  "Puma coster smoke large" , "imageurl": "./images/puma.jpg" , "cost" : 1300, "size": "l" , "company": "Puma"},
+    {"id": 7 , "name": "Adidas moto trippy", "imageurl": "./images/adidas.jpg" , "cost" : 1100, "size": "m" , "company": "Adidas"},
+    {"id": 8 , "name": "Nike plain white", "imageurl": "./images/nike.jpg" , "cost" : 1000 , "size" : "m" , "company": "Nike"}
+    ],
+
+    "reviews": [
+        {
+            "id":  1,
+            "name": "User 1",
+            "review": "Good Product",
+            "stars": 4.5,
+            "itemid" : 1
+        },
+        {
+            "id":  2,
+            "name": "User 2",
+            "review": "Ok Product",
+            "stars": 4,
+            "itemid" : 1
+        },
+        {
+            "id":  1,
+            "name": "User 4",
+            "review": "Nice Product",
+            "stars": 5,
+            "itemid" : 1
+        },
+        {
+            "id":  1,
+            "name": "User 1",
+            "review": "Good Product",
+            "stars": 4.5,
+            "itemid" : 2
+        },
+        {
+            "id":  1,
+            "name": "User 9",
+            "review": "Good Product",
+            "stars": 4.5,
+            "itemid" : 2
+        },
+        {
+            "id":  2,
+            "name": "User 5",
+            "review": "Ok Product",
+            "stars": 4,
+            "itemid" : 3
+        },
+        {
+            "id":  1,
+            "name": "User 4",
+            "review": "Nice Product",
+            "stars": 5,
+            "itemid" : 4
+        },
+        {
+            "id":  1,
+            "name": "User 1",
+            "review": "Good Product",
+            "stars": 4.5,
+            "itemid" : 4
+        },
+        {
+            "id":  2,
+            "name": "User 7",
+            "review": "Ok Product",
+            "stars": 4,
+            "itemid" : 3
+        },
+        {
+            "id":  1,
+            "name": "User 4",
+            "review": "Nice Product",
+            "stars": 5,
+            "itemid" : 4
+        },
+        {
+            "id":  1,
+            "name": "User 1",
+            "review": "Good Product",
+            "stars": 4.5,
+            "itemid" : 3
+        }
+    ]
+}
